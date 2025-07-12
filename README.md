@@ -30,11 +30,16 @@ Pizza_types include the following columns:
 - category
 - ingredients
 
-Pizza  include the following columns:
+Pizza include the following columns:
 - pizza_id
 - pizza_type_id
 - size
 - price
+
+data_dictionary include the following columns:
+- Table	
+- Field
+- Description
 
 ---
 
